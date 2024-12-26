@@ -23,10 +23,10 @@ Overview of the AD-AS Model:
 The Aggregate Demand-Aggregate Supply (AD-AS) model illustrates the levels of total output and price levels in an economy. Its key components include:
 
 - **Horizontal Axis:** Real GDP or output.
-- **Vertical axis: Price levels measured or an index of price level derived either from a GDP-deflator or consumer price index measurement.
-- **Curves:
+- **Vertical axis**: Price levels measured or an index of price level derived either from a GDP-deflator or consumer price index measurement.
+- **Curves**:
   - **Aggregate Demand (AD):** Downward sloping because the lower price level increases the real value of money, leading to increased consumption and investment.
-  - **SRAS ​ ​End -Short-run Aggregate Supply ​: Upward sloping-higher price and vice-versa motivate the producer.
+  - **SRAS End -Short-run Aggregate Supply**: Upward sloping-higher price and vice-versa motivate the producer.
   - **Long-run Aggregate Supply (LRAS)** shows a vertical line at potential output. It gives the highest production level an economy can achieve in the long run, which can be sustained.
 
 Increased Risk Impact:
@@ -39,7 +39,7 @@ This model shows how supply and demand for loanable funds interact:
 
 - **Horizontal Axis:** Quantity of loanable funds (in dollars).
 - **Vertical Axis:** Real interest rate, in percent.
-- **Curves:
+- **Curves**:
   - **Demand Curve for Loanable Funds:** Downward sloping because a fall in interest rates encourages borrowing.
   - **Supply Curve of Loanable Funds:** In a positive slope because high rates of interest will result in more saving.
 
@@ -48,7 +48,7 @@ A change in the perception of U.S. risk shifts the demand curve leftward, which 
 Capital Flow Model:
 
 - **Initial Condition:** Stable economies attract international capital due to low risks. U.S. securities have traditionally been in demand.
-- **After Risk Increase:
+- **After Risk Increase**:
   - **Capital Outflows:** A search for safer alternative homes, therefore, reduces U.S. capital inflows.
   - **Interest Rates:** A high increase in the rates shows that the returns are greater to compensate for the risk aversion of investors.
   - **Exchange Rates:** The result of weakened demand for US assets is a weaker dollar. With this fact in place, the export of products should be cheaper, and conversely, the imports more expensive.
