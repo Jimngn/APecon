@@ -1,5 +1,7 @@
 ### Modelling Geopolitcal Risk's Impact on US's economy for AP Economics
 
+![Model](Graph.png)
+
 Risk Premium and Investment: The risk premium is the return over and above the risk-free rate that investors demand for holding a risky asset. If the U.S. were perceived as a riskier place to invest, the risk premium on U.S. assets would rise, including government bonds. That would raise the cost of borrowing for the U.S. government and American businesses, and it would deter investment because of higher interest rates. AP Economics students assess how investment may be affected by perceptions of risk and rates of interest, and this carries implications for economic growth. 
 
 Stock Market and Household Wealth: "The more the perception of the U.S. as a riskier economy increases, the household wealth may decline owing to the decline in the stock market". It is seen as the wealth effect in the study of macroeconomics, wherein changes in the wealth of a consumer determine the spending and saving behavior of the consumers. A huge fall in the stock market will make the consumer spending lower, thereby slowing the cycle of economic growth.
