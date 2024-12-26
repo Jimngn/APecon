@@ -1,4 +1,4 @@
-### Modelling Geopolitcal Risk's Impact on US's economy for AP Economics
+### Modelling Geopolitcal Risk's Impact on US's economy for AP Economics using Brownian Motion
 
 ![Model](Graph.png)
 
